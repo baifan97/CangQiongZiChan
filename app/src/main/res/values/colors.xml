@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="huise">#7C7C7C</color>
+
+    <color name="circular_arc_progress_view_first_background_color">#FF0000</color>
+    <color name="circular_arc_progress_view_first_progress_color">#03A9F4</color>
+    <!--新拟态-->
+    <color name="neu_background">#f2f5fc</color>
+    <color name="neu_text_color">#2c2931</color>
+    <color name="yellow1">#fdb837</color>
+    <color name="navigationBar">#FFFFFF</color>
+
+    <color name="card_down1">#05B7C8F6</color>
+    <color name="card_down2">#0FB7C8F6</color>
+    <color name="card_down3">#14B7C8F6</color>
+    <color name="card_down4">#26B7C8F6</color>
+    <color name="card_down5">#33B7C8F6</color>
+
+
+</resources>
