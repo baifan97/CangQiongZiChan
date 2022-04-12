@@ -53,7 +53,7 @@ object HttpUtil {
     }
 
     /*月资产查询
-    * 调用Saobing在线资产查询接口，需自行搭建
+    * 同上，自行搭建
     * */
     fun getUserMonthLookUp(mzcurl: String,ck: String, callback: StringCallBack?) {
         if (TextUtils.isEmpty(ck)) return
