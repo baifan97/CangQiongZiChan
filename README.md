@@ -1,6 +1,6 @@
 # CangQiong-ZiChan
 
-![APP](https://cdn.jsdelivr.net/gh/baifan97/CangQiongZiChan/cray_arrange.png.png)
+![APP](https://cdn.jsdelivr.net/gh/baifan97/CangQiongZiChan/cray_arrange.png)
 
 
 苍穹之资产查询（App功能解耦合）
