@@ -34,6 +34,9 @@ object HttpUtil {
     /*
     日资产查询
     调用Saobing在线资产查询接口，需自行搭建
+   
+        填写示例：`http://192.168.1.1:6503/api/zc/`
+
     * */
     fun getUserInfoLookUp(zcurl: String,ck: String, callback: StringCallBack?) {
         if (TextUtils.isEmpty(ck)) return
