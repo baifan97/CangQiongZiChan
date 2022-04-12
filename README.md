@@ -1,5 +1,8 @@
 # CangQiong-ZiChan
 
+![APP](https://cdn.jsdelivr.net/gh/baifan97/CangQiongZiChan/cray_arrange.png.png)
+
+
 苍穹之资产查询（App功能解耦合）
 
 ### 使用教程
@@ -9,3 +12,5 @@
 填写示例：`http://192.168.1.1:6503/api/zc/`
 
 [Saobing搭建教程 - 科技玩家](https://www.kejiwanjia.com/jiaocheng/47074.html)
+
+
